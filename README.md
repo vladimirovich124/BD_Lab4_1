@@ -11,7 +11,7 @@ This project is a practical workshop for Apache Hive, guiding you through settin
 
 1. Clone this repository:
 
-    git clone https://github.com/vladimirovich124/BD_Lab2
+    git clone https://github.com/vladimirovich124/BD_Lab4_1
 
 ## Set up Docker containers:
 
